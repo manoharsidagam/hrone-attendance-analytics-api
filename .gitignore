@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 *.py[cod]
@@ -5,4 +6,13 @@ __pycache__/
 .env.*
 !.env.example
 .idea/
+=======
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.idea/
+>>>>>>> ebd18617c619dac7e31a1a3bffbb60eefe7b842d
 .vscode/
